@@ -1,0 +1,53 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>The Rebound — A podcast where the fans talk about the NBA</title>
+<link>http://reboundpodcast.com</link>
+<description>
+The Rebound is a podcast where the fans talk about the NBA.
+</description>
+<language>en</language>
+<pubDate>Fri, 15 Sep 2017 12:00:00 PST</pubDate>
+<lastBuildDate>Fri, 15 Sep 2017 12:00:00 PST</lastBuildDate>
+<itunes:author>Victor Kernes</itunes:author>
+<itunes:summary>
+The Rebound is a podcast where the fans talk about the NBA.
+</itunes:summary>
+<itunes:subtitle>
+The Rebound is a podcast where the fans talk about the NBA.
+</itunes:subtitle>
+<itunes:keywords>sports, NBA, basketball</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://reboundpodcast.com/assets/artwork.png"/>
+<itunes:owner>
+<itunes:name>Victor Kernes</itunes:name>
+<itunes:email>victorkernes@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Sports &amp; Recreation">
+<itunes:category text="Professional"/>
+</itunes:category>
+<item>
+<title>1: Kobe Bryant's Jerseys Retired for Lakers</title>
+<link>http://reboundpodcast.com/episodes/1</link>
+<guid>http://reboundpodcast.com/episodes/1</guid>
+<pubDate>Fri, 15 Sep 2017 12:00:00 PST</pubDate>
+<description>
+<![CDATA[
+<p>Welcome to the first episode of The Rebound, a podcast where the fans talk about the NBA.</p> <p>Links</p> <ul> <li><a href="https://www.facebook.com/thereboundfm/">Facebook</a></li> <li><a href="https://twitter.com/thereboundfm">Twitter</a></li> <li><a href="https://www.instagram.com/thereboundfm/">Instagram</a></li> <li><a href="https://www.youtube.com/channel/UCQmwK5DYj5jANvBK8WE-COg">YouTube</a></li> </ul>
+]]>
+</description>
+<itunes:summary>
+The Los Angeles Lakers announce they will retire both numbers for Kobe Bryant's jerseys.
+</itunes:summary>
+<itunes:duration>00:28:05</itunes:duration>
+<enclosure url="http://reboundpodcast.com/episodes/1/episode.mp3" length="1685" type="audio/mpeg"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Victor Kernes</itunes:author>
+<itunes:image href="http://reboundpodcast.com/assets/artwork.png"/>
+<content:encoded>
+<![CDATA[
+<p>Welcome to the first episode of The Rebound, a podcast where the fans talk about the NBA.</p> <p>Links</p> <ul> <li><a href="https://www.facebook.com/thereboundfm/">Facebook</a></li> <li><a href="https://twitter.com/thereboundfm">Twitter</a></li> <li><a href="https://www.instagram.com/thereboundfm/">Instagram</a></li> <li><a href="https://www.youtube.com/channel/UCQmwK5DYj5jANvBK8WE-COg">YouTube</a></li> </ul>
+]]>
+</content:encoded>
+</item>
+</channel>
+</rss>
