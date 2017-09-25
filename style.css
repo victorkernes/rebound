@@ -182,7 +182,6 @@ h3 {
 	line-height: 1.7;
 	font-size: 1.125rem;
 	text-align: left;
-
 }
 #menu-toggle:checked + #menu {
 	display: block;
@@ -219,5 +218,18 @@ h3 {
 	.column {
 		display: flex;
 		flex-direction: column;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.categories {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.description p {
+		font-size: 1rem;
+	}
+	.iphone {
+		width: 100%;
+		padding: 0;
 	}
 }
