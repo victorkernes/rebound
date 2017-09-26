@@ -14,7 +14,9 @@ li {
 body {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 5% 10% auto;
+	max-width: 64rem;
+	padding: 0 5%;
+	margin: 10% auto;
 }
 section {
 	text-align: center;
@@ -160,6 +162,7 @@ h3 {
 	text-align: left;
 }
 .subscribe {
+	width: 100%;
 	max-width: 560px;
 	margin: 0 auto;
 }
@@ -191,6 +194,9 @@ h3 {
 }
 /* Responsive Layout*/
 @media only screen and (max-width: 880px) {
+	body {
+		margin: 5% 10% auto;
+	}
 	.main {
 		display: inline-flex;
 		flex-wrap: wrap;
@@ -231,5 +237,8 @@ h3 {
 	.iphone {
 		width: 100%;
 		padding: 0;
+	}
+	body {
+		margin: 10% 5% auto;
 	}
 }
